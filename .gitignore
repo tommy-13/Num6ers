@@ -10,3 +10,5 @@ bin/
 *.obj
 *.lib
 *.so
+lwjgl64.dll
+OpenAl64.dll
