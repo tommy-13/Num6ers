@@ -10,4 +10,5 @@ To make it more difficult, there is a time limitations.
 For the translations use the classical letter-to-number code: 1 corresponds to A, 2 to B, 3 to C, and so on.
 
 # External dll's
-In order to run the game you need the file <i>lwjgl64.dll</i> in the project folder.
+In order to run the game, some dll's need to be included (in the project folder), depending on the operating system.
+For Windows 64-bit the necesary dll's are <i>lwjgl64.dll</i> and <i>OpenAL64.dll</i>.
