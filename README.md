@@ -8,3 +8,6 @@ You are given a series of letters and have to translate them into a word.
 To make it more difficult, there is a time limitations.
 
 For the translations use the classical letter-to-number code: 1 corresponds to A, 2 to B, 3 to C, and so on.
+
+# External dll's
+In order to run the game you need the file <i>lwjgl64.dll</i> in the project folder.
