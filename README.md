@@ -3,6 +3,8 @@ A little game where it is required to translate numbers to words
 
 It is only available in german.
 
+The implementation uses external jars (see lib/jars).
+
 # Task
 You are given a series of letters and have to translate them into a word.
 To make it more difficult, there is a time limitations.
